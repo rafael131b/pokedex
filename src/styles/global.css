@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  textarea, button, input{
+    background-color: transparent;
+    border: none;
+  }
+
+  button {
+    box-shadow: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    -webkit-box-shadow: none;
+  }
+  .container{
+    width: 80%;
+    margin: 0 auto;
+  }
